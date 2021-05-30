@@ -1,15 +1,16 @@
 import { MarkdownContext } from "../context/MarkdownContext";
-
+import React from 'react';
 function MarkdownSanitized() {
     return (
-        <div className="">
+        <>
             <MarkdownContext.Consumer>
                 {({ getMarkDownAsHTMLOutput }) => (
-
-                    <div dangerouslySetInnerHTML={getMarkDownAsHTMLOutput()} />
+                    <div
+                        dangerouslySetInnerHTML={getMarkDownAsHTMLOutput()}
+                    />
                 )}
             </MarkdownContext.Consumer>
-        </div>
+        </>
     );
 }
 

@@ -1,19 +1,19 @@
-import React from 'react';
 import { MarkdownContext } from '../context/MarkdownContext';
 
 function RawInputArea() {
     return (
-        <div className="">
+        <>
             <MarkdownContext.Consumer>
                 {({ rawText, handleChangeRawInputedText }) => (
                     <textarea
+                        placeholder="Enter Markdown"
                         value={rawText}
                         onChange={e => handleChangeRawInputedText(e.target.value)}
                     >
                     </textarea>
                 )}
             </MarkdownContext.Consumer>
-        </div>
+        </>
     );
 }
 

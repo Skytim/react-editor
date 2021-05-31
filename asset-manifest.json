@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Skytim/react-editor/static/css/main.8627067b.chunk.css",
+    "main.js": "/Skytim/react-editor/static/js/main.356dcd15.chunk.js",
+    "main.js.map": "/Skytim/react-editor/static/js/main.356dcd15.chunk.js.map",
+    "runtime-main.js": "/Skytim/react-editor/static/js/runtime-main.fe1c1405.js",
+    "runtime-main.js.map": "/Skytim/react-editor/static/js/runtime-main.fe1c1405.js.map",
+    "static/js/2.50c4b396.chunk.js": "/Skytim/react-editor/static/js/2.50c4b396.chunk.js",
+    "static/js/2.50c4b396.chunk.js.map": "/Skytim/react-editor/static/js/2.50c4b396.chunk.js.map",
+    "static/js/3.ea4fa57f.chunk.js": "/Skytim/react-editor/static/js/3.ea4fa57f.chunk.js",
+    "static/js/3.ea4fa57f.chunk.js.map": "/Skytim/react-editor/static/js/3.ea4fa57f.chunk.js.map",
+    "index.html": "/Skytim/react-editor/index.html",
+    "static/css/main.8627067b.chunk.css.map": "/Skytim/react-editor/static/css/main.8627067b.chunk.css.map",
+    "static/js/2.50c4b396.chunk.js.LICENSE.txt": "/Skytim/react-editor/static/js/2.50c4b396.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe1c1405.js",
+    "static/js/2.50c4b396.chunk.js",
+    "static/css/main.8627067b.chunk.css",
+    "static/js/main.356dcd15.chunk.js"
+  ]
+}
